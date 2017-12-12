@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "do_objectID": "E5ED1EF3-0F9D-4CC0-94C6-C6F91317AF71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 577,
+    "width": 381,
+    "x": -20,
+    "y": -1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5EE64A38-BA27-4123-9027-489796D0E0B8"
+    },
+    {
+      "class": "group",
+      "id": "011568D9-6031-49F1-BB32-A0AD9BD7EA25"
+    },
+    {
+      "class": "group",
+      "id": "B8A5F63A-FF65-40DE-A72A-C97E566CD32A"
+    },
+    {
+      "class": "group",
+      "id": "F5AACB77-09E7-4B36-968C-D90D4872AE1A"
+    },
+    {
+      "class": "text",
+      "id": "DD6ADE5F-F2D8-4AFD-AE47-C23A08208951"
+    },
+    {
+      "class": "text",
+      "id": "7D87F351-A922-4AC1-AF85-CD3EA9608F77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6462B084-5E22-4A1A-956D-92921196BC40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CACFC1EB-10F0-4255-BB50-175F2C467928"
+    }
+  ],
+  "name": "scr select city/lang  copy 3",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
